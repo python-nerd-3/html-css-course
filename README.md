@@ -10,3 +10,7 @@ HTML (Hypertext Markup Language) is code to build the layout and structure of a 
 CSS (Cascading Style Sheets) is a programming language used to stylize your HTML document, such as formatting text, positioning elements, and even creating animations. CSS uses "rules" to affect specific elements. For example, the rule `* { color: red }` would change every element to be the color <span style="color:red">red.</span>
 
 **JavaScript tutorial coming never I still can't understand promises**
+
+## How to start the course
+
+Download the source code of this repository. Unzip. To view the markdown files, either use GitHub's built in markdown viewer (**does not have HTML integration, may cause some articles to break**) or an online source. To do checks, navigate to the folder and edit with your code editor. 
